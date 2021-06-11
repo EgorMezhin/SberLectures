@@ -1,0 +1,42 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.29)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk
+iPhoneOS14.4.sdk
+/Users/egorlass/Library/Developer/Xcode/DerivedData/MyFramework-bvyybnfurmmvnafhvnnnyywaftir/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyFramework.build/Release-iphoneos/MyFramework.build/DerivedSources/MyFramework_vers.c
+/Users/egorlass/Desktop/Lecture20Framwork/MyFramework
+___swift_instantiateConcreteTypeFromMangledName
+_symbolic _____yypG s23_ContiguousArrayStorageC
+_$ss23_ContiguousArrayStorageCyypGMD
+__METACLASS_DATA__TtC11MyFramework7MyClass
+__IVARS__TtC11MyFramework7MyClass
+__DATA__TtC11MyFramework7MyClass
+_$s11MyFrameworkMXM
+_$s11MyFramework0A5ClassCMf
+_symbolic _____ 11MyFramework0A5ClassC
+_symbolic SS
+_$s11MyFramework0A5ClassCMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_MyFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_MyFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_MyFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_MyFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_MyFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_MyFramework
+___swift_reflection_version
+_objc_classes
+_$s11MyFramework0A5ClassCACycfCTq
+Apple clang version 12.0.0 (clang-1200.0.32.28)
+<swift-imported-modules>
+Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+/Users/egorlass/Desktop/Lecture20Framwork/MyFramework/MyFramework/MyClass.swift
+$s11MyFramework0A5ClassCMa
+<compiler-generated>
+deinit
+__swift_instantiateConcreteTypeFromMangledName
+sayHello
+_allocateUninitializedArray
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCyp_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFyp_Tg5
+name.get
+$s11MyFramework0A5ClassC4nameSSvpfi

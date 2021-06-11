@@ -1,0 +1,19 @@
+{
+  "commitish" : "87f2ed560e4d2583942b00839e7a338e68ea798f",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "713dab432a4c2938cd6d6b5ef4a55311d5e79118c24fc79804da7cdfe499cb61",
+      "name" : "MyFramework",
+      "container" : "MyFramework.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "3df79d8972627d9417c1abdaacb28086f9ab987d2b0f33189c27fa2b793c4e86",
+      "name" : "MyFramework",
+      "container" : "MyFramework.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
