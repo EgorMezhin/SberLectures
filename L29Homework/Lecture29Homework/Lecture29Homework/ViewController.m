@@ -6,8 +6,13 @@
 //
 
 #import "ViewController.h"
+#import "StringArrayDelegate.h"
+#import "StringArray.h"
+
 
 @interface ViewController ()
+
+@property (nonatomic, strong) id<StringArrayDelegate> stringsArrayDelegate;
 
 @end
 
@@ -15,7 +20,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    self.stringsArrayDelegate = [[StringArray alloc] init];
+    NSArray *sortedArray = [self.stringsArrayDelegate getStringArray];
+    NSLog(@"Sorted Array: %@", sortedArray);
 }
 
 
