@@ -1,0 +1,16 @@
+//
+//  module.modulemap
+//  L31Homework
+//
+//  Created by Egor Lass on 12.07.2021.
+//
+
+module Module {
+    header "../ObjCLibrary/UmbrellaFile.h"
+    export *
+    
+    explicit module Module {
+        header "../AnotherObjCLibrary/UmbrellaFile.h"
+        export *
+    }
+}
